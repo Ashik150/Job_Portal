@@ -20,6 +20,7 @@ joern-install.sh
 *.0x/
 backend/logs/
 *.log
+corrective/
 
 # Environment & OS files
 .env
