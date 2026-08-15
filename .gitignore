@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build & Output directories
+dist/
+build/
+html/
+latex/
+docs/
+
+# Binary & Analysis outputs
+*.bin
+*.bin1/
+cpg.bin
+workspace/
+joern-cli/
+joern-install.sh
+*.0x/
+backend/logs/
+*.log
+
+# Environment & OS files
+.env
+.DS_Store
